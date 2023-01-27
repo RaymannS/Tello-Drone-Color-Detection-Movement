@@ -1,4 +1,4 @@
-# Read Me for Tello Drone Color Detection Movement code
+# README for Tello Drone Color Detection Movement code
 This program will allow the Tello Drone to use the front camera to detect a multi-colored target and then calculate the distance to the target and land on it.
 ## Status
 ### [Released]
