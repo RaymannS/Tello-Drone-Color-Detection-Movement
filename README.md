@@ -2,7 +2,7 @@
 This program will allow the Tello Drone to use the front camera to detect a multi-colored target and then calculate the distance to the target and land on it.
 ## Status
 ### [Released]
-## Creator: Raymann Singh
+## Creators: Raymann Singh and Camden G. Williams
 ### Created: 2022.11.28
 ## Last Editor: R. Singh
 ### Last Edited: 2023.1.27
